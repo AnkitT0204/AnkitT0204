@@ -14,7 +14,7 @@
 
 - 💻 Skilled in **Data Structures, Algorithms, Full Stack Web Development, OOPS, OS, DBMS, CN and SQL**
 
-- 🏃🏻‍♂️ Extra Curricular **I am a guitarist, basketball player and a taekwondo champion.**
+- 🏃🏻‍♂️ Extra Curricular - **I am a guitarist, basketball player and a taekwondo champion.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
