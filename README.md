@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Tanwar</h1>
 <h3 align="center">A pre-final year student pursuing B.Tech in Information Technology from GTBIT (CGPA: 8.63/10). </h3>
-<h4 align= "center">I am an Upraised Embark Fellow 2021 (Top 2 % Performer) having rank 1229 out of 4,55,534 candidates all over the India🇮🇳</h4>
+<h4 align= "center">🏆 I am an Upraised Embark Fellow 2021 (Top 2 % Performer) having rank 1229 out of 4,55,534 candidates all over the India🇮🇳</h4>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/AnkitT0204/pic/blob/main/Screenshot%202021-12-31%20at%206.00.47%20PM.png">
 
