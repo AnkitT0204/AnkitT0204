@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ankit Tanwar</h1>
-<h3 align="center">A pre-final year student pursuing B.Tech in Information Technology from GTBIT.</h3>
+<h3 align="center">A pre-final year student pursuing B.Tech in Information Technology from GTBIT (CGPA: 8.63/10). I am an Upraised Embark Fellow 2021 (Top 2 % Performer) having rank 1229 out of 4,55,534 candidates all over the India.</h3>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ankit-tanwar-0110791a8](https://www.linkedin.com/in/ankit-tanwar-0110791a8)
+- 🔭 I’m currently working on **Full Stack Web Development and Software Development**
+
+- 🤩 I’m always ready for **Open source contribtions**
+
+- 📝 I regularly write technical blogs on [https://ankitt0204.medium.com/](https://ankitt0204.medium.com/)
+
+- 💬 Ask me about **Software Development and Full Stack Web Development**
+
+- 💻 Skilled in **Data Structures, Algorithms, Full Stack Web Development, OOPS, OS, DBMS, CN and SQL**
+
+- 🏃🏻‍♂️ Extra Curricular **I am a guitarist, basketball player and a taekwondo champion.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankit-tanwar-0110791a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-tanwar-0110791a8" height="30" width="40" /></a>
+<a href="https://medium.com/@ankitt0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ankitt0204" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
